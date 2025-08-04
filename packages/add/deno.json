@@ -7,7 +7,6 @@
   },
 
   "imports": {
-    "@std/datetime": "jsr:@std/datetime@^0.225.5",
-    "@std/log": "jsr:@std/log@^0.224.14",
+    "@std/log": "jsr:@std/log@^0.224.14"
   }
 }
