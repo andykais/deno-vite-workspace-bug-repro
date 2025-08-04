@@ -1,0 +1,13 @@
+{
+  "name": "@sample/subtract",
+  "version": "0.0.0",
+
+  "exports": {
+    ".": "./src/mod.ts"
+  },
+
+  "imports": {
+    "@std/log": "jsr:@std/log@^0.224.14",
+    "~/": "./src/"
+  }
+}

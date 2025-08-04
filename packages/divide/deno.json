@@ -1,0 +1,11 @@
+{
+  "name": "@sample/divide",
+
+  "imports": {
+    "#/": "./src/"
+  },
+
+  "exports": {
+    ".": "./src/mod.ts"
+  }
+}

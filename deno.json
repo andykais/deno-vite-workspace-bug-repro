@@ -1,0 +1,14 @@
+{
+  "workspace": [
+    "./packages/add",
+    "./packages/subtract",
+    "./packages/divide",
+    "./packages/web",
+  ],
+
+  "nodeModulesDir": "auto",
+
+  "imports": {
+    "@andykais/ts-rpc": "jsr:@andykais/ts-rpc@^0.2.4"
+  }
+}

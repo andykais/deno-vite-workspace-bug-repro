@@ -1,0 +1,13 @@
+{
+  "name": "@sample/add",
+  "version": "0.0.0",
+
+  "exports": {
+    ".": "./src/mod.ts"
+  },
+
+  "imports": {
+    "@std/datetime": "jsr:@std/datetime@^0.225.5",
+    "@std/log": "jsr:@std/log@^0.224.14",
+  }
+}
